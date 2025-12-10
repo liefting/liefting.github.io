@@ -3,10 +3,10 @@ layout: default
 title: About
 ---
 # Bonnie Liefting
-Awesome that you found my first attempt at creating my personal website. In the future I'll show off some of my projects here, such as apps, sewing projects and poetry, or I might even start a blog. But for now you can enjoy reading about me and have a look at some of my research projects.
+Awesome that you found my first attempt at creating my personal website. In the future I might show off some of my projects here, such as apps, sewing projects and poetry. But for now you can enjoy reading about me and have a look at some of my research projects.
 
 ## About me
-My spare time activities include, but are not limited to, unicycling, gardening, sewing, programming, painting and learning to play guitar/mandolin. I'm interested in science outreach, degrowth, [solarpunk](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/) and everything open (as in open source, open science, open education, open library, open access, etc.). I also enjoy reading, boardgames, learning new languages,  and last but definitely not least, spending time with my husband, daughter, family and friends.
+My spare time activities include, but are not limited to, [unicycling](https://uniridersodense.dk/), gardening, sewing, programming, painting and learning to play guitar/mandolin. I'm interested in science outreach, degrowth, [solarpunk](https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/) and everything open (as in open source, open science, open education, open library, open access, etc.). I also enjoy reading, boardgames, learning new languages,  and last but definitely not least, spending time with my husband, children, family and friends.
 
 ## Research
 Until November 2024 I worked as a Research Assistant on the project [Dynamic network modelling of depression: towards personalised treatment targets](https://lundbeckfonden.com/en/dynamic-network-modelling-of-depression-towards-personalised-treatment-targets) with [Maria Semkovska](https://portal.findresearcher.sdu.dk/da/persons/maria-semkovska) at the [Department of Psychology](https://www.sdu.dk/en/om_sdu/institutter_centre/institut_psykologi) at the University of Southern Denmark.
