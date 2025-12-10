@@ -1,0 +1,10 @@
+---
+---
+Authors: Maria Semkovska, Bonnie Liefting
+Publisher: Psychiatry Research,
+Volume 356, 2026, 116883, ISSN 0165-1781,
+[DOI: 10.1016/j.psychres.2025.116883](https://doi.org/10.1016/j.psychres.2025.116883)
+
+Abstract:
+Depression’s direct and indirect health effects compound the disease burden of normal aging. Personalised prevention is limited by existing diagnostic classifications. The network theory conceptualises individual depressive symptoms and associated protective factors (e.g., cognition) as a complex system of interrelated components, which enables the identification of potential personalisation targets. We evaluated the temporal stability and connectivity of extended networks including symptoms, cognitive functions and daily activities in elderly co-twins discordant for past depression, and explored possible genetic contributions to the structure of associations between the networks’ elements. Gaussian graphical models estimated the networks of 228 like-sex (104 monozygotic and 124 dizygotic) co-twins aged >70 from the Danish Twin Registry at three timepoints, set two years apart. The networks of both the affected and unaffected by past depression co-twins showed stable global strength and global structure across time. At each timepoint, the affected co-twins showed stronger global network associations and stronger local associations among both depressive symptoms and cognitive functions than the unaffected networks. In affected co-twins, anhedonia was the most central network element (i.e., with the strongest independent associations with remaining variables), and learning – the most central cognitive function. In unaffected co-twins, memory functions were the most influential elements in the extended networks of depressive symptoms. Frequency of engagement in daily activities was not central in either networks at any timepoint. No significant differences were observed when comparing monozygotic to dizygotic networks. Depression preventative strategies in the elderly should target anhedonia and stimulating/maintaining memory functions.
+
