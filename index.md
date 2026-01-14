@@ -16,6 +16,8 @@ I defended my Phd in January 2024 at the Centre for Systems, Dynamics, and Contr
 During the last year of my PhD I was a visiting researcher at the Department of Mathematics and Computer Science ([IMADA](https://imada.sdu.dk/)) at the University of Southern Denmark 
 with [Kristian Debrabant](https://imada.sdu.dk/u/debrabant/index_en.php). 
 
+[![Watch a video I made](https://raw.githubusercontent.com/liefting/liefting.github.io/master/_site/assets/videos/brusselator_thumbnail.png)](https://raw.githubusercontent.com/liefting/liefting.github.io/master/_site/assets/videos/Brusselator_Sync_Engineering_targetBAR2016.mp4)
+
 ## Find me
 You can contact me on [LinkedIn](https://www.linkedin.com/in/liefting/).
 
